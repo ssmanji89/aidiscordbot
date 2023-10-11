@@ -25,8 +25,8 @@ It's built using Python and the discord.py library and comes containerized with 
 ### Clone the Repository
 
 ```bash
-git clone https://your-repo-url.git
-cd your-repo-directory
+git clone https://github.com/ssmanji89/aidiscordbot
+cd aidiscordbot
 ```
 
 ### Local Setup
