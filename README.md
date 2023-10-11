@@ -49,11 +49,11 @@ cd aidiscordbot
 
 1. Build the Docker image:
     ```bash
-    docker build -t your_image_name .
+    docker build -t aidiscordbot .
     ```
 2. Run the Docker container:
     ```bash
-    docker run -e DISCORD_BOT_TOKEN=your_token -e OPENAI_API_KEY=your_key your_image_name
+    docker run -e DISCORD_BOT_TOKEN=your_token -e OPENAI_API_KEY=your_key aidiscordbot
     ```
 
 ## Commands
